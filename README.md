@@ -22,21 +22,21 @@ Puedes instalar Pygame con:
 
 ```bash
 pip install pygame
-
+```
 COMO EJECUTAR
 ```bash
 python main.py
-
+```
 Asegúrate de estar en la carpeta del proyecto y que main.py sea tu archivo principal.
 
-
+```bash
 culebrita/
 │
 ├── main.py               # Archivo principal del juego
 ├── culebrita.py          # Lógica del personaje
 ├── manzana.py            # Clase para la manzana (si está separada)
 ├── README.md             # Este archivo
-
+```
 CARACTERISTICAS PENDIENTES
 -Crecimiento de la culebra al comer.
 
