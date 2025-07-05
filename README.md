@@ -38,6 +38,7 @@ culebrita/
 ├── README.md             # Este archivo
 ```
 CARACTERISTICAS PENDIENTES
+
 -Crecimiento de la culebra al comer.
 
 -Colisión con uno mismo.
